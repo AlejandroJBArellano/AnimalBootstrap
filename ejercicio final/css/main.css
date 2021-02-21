@@ -123,3 +123,20 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
     background-color: rgb(224, 144, 24);
     background-size: 50px 50px;
 }
+.amor {
+    background-color: rgb(223, 85, 25);
+    color: white;
+    font-family: 'Ballet', cursive;
+    font-size: 40px;
+    width: 100%;
+    transition:1s all;
+}
+.amor:hover {
+    color: black;
+    background: rgb(244,240,7);
+    background: linear-gradient(0deg, rgba(244,240,7,1) 0%, rgba(253,187,45,1) 100%);
+    border-radius: 100px/50px;
+}
+.amor > p: {
+
+}
